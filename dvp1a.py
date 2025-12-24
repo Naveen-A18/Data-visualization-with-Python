@@ -16,3 +16,4 @@ for i in range(3):
 test_scores.sort(reverse=True)
 best_two_average_score = sum(test_scores[:2]) / 2
 print(f"The average of the best two test scores is: {best_two_average_score}")
+print("program completed")
