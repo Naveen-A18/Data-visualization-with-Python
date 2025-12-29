@@ -1,7 +1,7 @@
 import plotly.express as px
 
 # Load the Iris dataset
-df = px.data.iris()
+df = px.data.iris() 
 
 # Create a 3D scatter plot
 fig = px.scatter_3d(
@@ -20,5 +20,6 @@ fig.update_layout(
         zaxis_title="Sepal Length"
     )
 )
+
 
 fig.show()
