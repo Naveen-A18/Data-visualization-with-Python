@@ -2,7 +2,7 @@ import numpy as np
 import plotly.graph_objects as go
 
 x = np.linspace(-5, 5, 100)
-y = np.linspace(-5, 5, 100)
+y = np.linspace(-5, 5, 100) 
 x, y = np.meshgrid(x, y)
 
 z = np.sin(np.sqrt(x**2 + y**2))
@@ -19,3 +19,4 @@ fig.update_layout(
 )
 
 fig.show()
+
