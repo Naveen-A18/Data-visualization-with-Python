@@ -61,45 +61,30 @@ Line formatting in plots
 🔹 Seaborn Visualizations
 
 Joint Plot
-
 Hexbin Plot
-
 KDE Plot
-
 Heat Map
-
 Pair Plot
-
 Box Plot
-
 Regression Plot
-
 Seaborn Bar Plot
 
 🔹 Bokeh Visualizations
 
 Line graph with annotations and legends
-
 Multiple plot types using Bokeh
 
 🔹 Plotly Visualizations
 
 3D Plots (Sine wave & Scatter plot)
-
 Time Series visualization
-
 Map visualization
 
 🛠️ Technologies Used
 
 Python
-
 Matplotlib
-
 Seaborn
-
 Bokeh
-
 Plotly
-
 NumPy
